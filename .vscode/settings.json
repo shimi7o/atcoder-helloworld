@@ -1,3 +1,4 @@
 {
-        "python.pythonPath": "/home/shimi7o/.pyenv/shims/python"
+        "python.pythonPath": "/home/shimi7o/.pyenv/shims/python",
+        "python.formatting.provider": "autopep8"
 }
